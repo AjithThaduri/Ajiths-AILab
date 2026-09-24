@@ -12,6 +12,14 @@ experiments/<exp-id>-<slug>/
 
 Example: `experiments/exp-001-dual-control-rag/`
 
+## Experiments
+
+| Path | Label |
+| --- | --- |
+| `experiments/exp-001-dual-control-rag/` | SELF-EVALUATED / EXPLORATORY |
+
+Results live inside each experiment folder. Read that folder's README, `BLOCKED.md`, and `results/` before citing any number.
+
 ## Rules
 
 - One experiment per folder
